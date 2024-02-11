@@ -15,7 +15,7 @@ The YouTube Data Harvesting and Warehousing Project is an interactive dashboard 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/youtube-data-harvesting.git
+   git clone https://github.com/stephanrpicloud/YouTube-Data-harvesting-project-   
    ```
 
 2. Install the required dependencies:
@@ -27,7 +27,7 @@ The YouTube Data Harvesting and Warehousing Project is an interactive dashboard 
 3. Run the Streamlit application:
 
    ```bash
-   streamlit run app.py
+   streamlit run YTapp.py
    ```
 
 4. Navigate through the menu options to explore the various functionalities of the dashboard:
