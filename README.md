@@ -44,10 +44,6 @@ The project leverages Streamlit, Google API, MongoDB, and SQL databases to deliv
 
 Contributions are welcome! If you find any bugs or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Credits
 
 - This project uses Streamlit for the interactive web application.
