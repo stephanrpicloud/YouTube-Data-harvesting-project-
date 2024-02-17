@@ -27,7 +27,7 @@ The YouTube Data Harvesting and Warehousing Project is an interactive dashboard 
 3. Run the Streamlit application:
 
    ```bash
-   streamlit run YTapp.py
+   streamlit run app.py
    ```
 
 4. Navigate through the menu options to explore the various functionalities of the dashboard:
